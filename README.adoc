@@ -6,14 +6,14 @@ and drivers for sensors, I/O, and other devices.
 
 === Microcontrollers and SBCs
 
-Browse under platforms/<family>/<model> to find:
+.Browse under platforms/<family>/<model> to find:
  - nim.cfg : configuration file for Nim
  - README : usage and upload instructions
  - example.nim : simple working example
 
 === Drivers
 
-Browse under drivers/<category>/<model> to find:
+.Browse under drivers/<category>/<model> to find:
  - a library file
  - README : usage instructions
  - example.nim : simple working example
